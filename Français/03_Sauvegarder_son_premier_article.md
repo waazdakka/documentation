@@ -68,7 +68,7 @@ Enfin, sauvegardez les paramètres entrés.
 
 Téléchargez l'extension Firefox [sur le site addons.mozilla.org](https://addons.mozilla.org/firefox/addon/wallabag/) et installez-la comme toute autre extension Firefox. 
 
-Dans les préférences de l'extension, renseignez l'URL complète de votre installation de wallabag ou de votre compte Framabag.org. 
+Dans les préférences de l'extension, renseignez l'URL complète de votre installation de wallabag ou de votre compte Framabag. 
 
 Personnalisez la barre d'outils de Firefox pour ajouter wallabag (icône `w`). Lorsque vous vous trouvez sur un article que vous souhaitez sauvegarder, cliquez sur cette icône : une nouvelle fenêtre s'ouvrira pour ajouter l'article et elle se refermera automatiquement. 
 
@@ -76,6 +76,6 @@ Personnalisez la barre d'outils de Firefox pour ajouter wallabag (icône `w`). L
 
 Téléchargez l'extension Chrome [sur le site dédié](https://chrome.google.com/webstore/detail/wallabag/bepdcjnnkglfjehplaogpoonpffbdcdj) et installez-la comme toute autre extension Chrome. 
 
-Dans les options de l'extension, renseignez l'URL complète de votre installation de wallabag ou de votre compte Framabag.org. 
+Dans les options de l'extension, renseignez l'URL complète de votre installation de wallabag ou de votre compte Framabag. 
 
 Lors de l'installation de l'extension, une nouvelle icône est apparue dans la barre d'outils de Chrome, une icône `w`. Lorsque vous vous trouvez sur un article que vous souhaitez sauvegarder, cliquez sur cette icône : une popup s'ouvrira et vous confirmera que l'article a bien été sauvegardé. 
