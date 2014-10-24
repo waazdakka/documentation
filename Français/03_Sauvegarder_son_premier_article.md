@@ -7,9 +7,13 @@ Validez et le contenu de l'article est enregistré.
 
 ## Depuis le bookmarklet
 
-    bla bla bla sur le bookmarklet, cf wikipedia
+[Définition Wikipedia](http://fr.wikipedia.org/wiki/Bookmarklet)
 
-Depuis le menu de wallabag, cliquez sur **configuration**. Dans la première partie de cette page, nous avons listé les différents moyens de sauvegarder un article. Vous trouverez ainsi le bookmarklet à glisser / déposer dans la barre de favoris de votre navigateur. 
+    Un bookmarklet est un petit programme JavaScript pouvant être stocké :
+    * soit en tant qu'URL dans un signet (marque-page ou lien favori) avec la plupart des navigateurs Web ;
+    * soit en tant qu'hyperlien dans une page web.
+
+Depuis le menu de wallabag, cliquez sur **configuration**. Dans la première partie de cette page, nous avons listé les différents moyens de sauvegarder un article. Vous trouverez ainsi le bookmarklet (c'est le lien `bag it !`) à glisser / déposer dans la barre de favoris de votre navigateur. 
 
 Dorénavant, lorsque vous souhaitez sauvegarder un article sur lequel vous êtes en train de surfer, vous n'avez qu'à cliquer sur ce bookmarklet et l'article sera automatiquement enregistré.
 
@@ -57,12 +61,16 @@ Aujourd'hui, la synchronisation ne s'effectue que dans un sens (de wallabag vers
 
 ### Firefox
 
-#### Installation et configuration 
+Téléchargez l'extension Firefox [sur le site addons.mozilla.org](https://addons.mozilla.org/firefox/addon/wallabag/) et installez-la comme toute autre extension Firefox. 
 
-#### Utilisation
+Dans les préférences de l'extension, renseignez l'URL complète de votre installation de wallabag ou de votre compte Framabag.org. 
+
+Personnalisez la barre d'outils de Firefox pour ajouter wallabag (icône `w`). Lorsque vous vous trouvez sur un article que vous souhaitez sauvegarder, cliquez sur cette icône : une nouvelle fenêtre s'ouvrira pour ajouter l'article et elle se refermera automatiquement. 
 
 ### Chrome
 
-#### Installation et configuration 
+Téléchargez l'extension Chrome [sur le site dédié](https://chrome.google.com/webstore/detail/wallabag/bepdcjnnkglfjehplaogpoonpffbdcdj) et installez-la comme toute autre extension Chrome. 
 
-#### Utilisation
+Dans les options de l'extension, renseignez l'URL complète de votre installation de wallabag ou de votre compte Framabag.org. 
+
+Lors de l'installation de l'extension, une nouvelle icône est apparue dans la barre d'outils de Chrome, une icône `w`. Lorsque vous vous trouvez sur un article que vous souhaitez sauvegarder, cliquez sur cette icône : une popup s'ouvrira et vous confirmera que l'article a bien été sauvegardé. 
