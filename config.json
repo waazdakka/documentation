@@ -2,7 +2,6 @@
     "title": "wallabag",
     "tagline": "User documentation for wallabag",
     "author": "Nicolas Lœuillet",
-    "image": "<base_url>img/app.png",
     "theme": "daux-blue",
     "template": "default",
     "clean_urls": true,
@@ -22,6 +21,6 @@
         "files": [".gitignore"],
         "folders": [".git"]
     },
-
+    "languages": { "en": "English", "fr": "Fran&ccedil;ais" },
     "timezone": "Europe/Paris"
 }
