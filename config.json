@@ -19,6 +19,9 @@
         "Documentation contributors": "https://github.com/wallabag/documentation/graphs/contributors"
     },
     "ignore": {
+        "files": [".gitignore"],
         "folders": [".git"]
-    }
+    },
+
+    "timezone": "Europe/Paris"
 }
