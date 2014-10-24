@@ -1,1 +1,0 @@
-Please choose the documentation in your language.

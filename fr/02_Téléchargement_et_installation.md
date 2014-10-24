@@ -1,4 +1,3 @@
-# Téléchargement et installation
 [Téléchargez la dernière version de wallabag](http://www.wallabag.org/download) et décompressez-la. Copiez les fichiers sur votre serveur web. 
 
 ## Pré-requis pour votre serveur web
