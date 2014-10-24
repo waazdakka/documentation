@@ -16,15 +16,22 @@ Pour être sûr que votre serveur possède tous les pré-requis, vous pouvez ex�
 
 ## Installation des dépendances
 Pour pouvoir fonctionner, wallabag a besoin de dépendances. Pour les installer, vous devez utiliser `composer`. Dans votre dossier wallabag, exécutez les deux commandes suivantes :
-```
-curl -s http://getcomposer.org/installer | php
-```
-```
-php composer.phar install
-```
+
+    curl -s http://getcomposer.org/installer | php
+    php composer.phar install
 
 Si vous ne pouvez pas installer `composer` (dans le cas d'hébergement mutualisé par exemple), nous vous proposons un fichier [vendor.zip](http://wllbg.org/vendor) à décompresser dans votre répertoire wallabag.
 
-## Installation de wallabag
+## Permissions
+Le serveur web doit avoir accès en écriture aux répertoires `assets`, `cache` et `db`. Sans cela, un message vous indiquera que l'installation est impossible. 
 
-...
+## Installation de wallabag
+Accédez à wallabag depuis votre navigateur. Si votre serveur est bien configuré, vous arrivez sur l'écran d'installation. 
+
+Renseignez le type de votre base de données (`sqlite`, `mysql` ou `postgresql`), les informations de votre base de données et enfin les informations pour votre compte utilisateur. 
+
+wallabag est maintenant installé. 
+
+## Connexion 
+
+Vous arrivez sur l'écran d'identification : saisissez votre identifiant et votre mot de passe et vous voici connecté.
