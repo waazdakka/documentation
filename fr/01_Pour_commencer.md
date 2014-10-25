@@ -12,4 +12,4 @@
 Si vous souhaitez tester toute les fonctionnalités de wallabag, nous avons mis en place une démonstration ici : [http://demo.wallabag.org](http://demo.wallabag.org)
 
 ## Création d'un compte
-Puisque vous ne souhaitez peut-être pas gérer l'installation et la mise à jour de wallabag, ou puisque vous n'avez peut-être pas les connaissances pour l'installer, il vous est possible de vous créer un compte gratuit sur [Framabag.org](https://www.framabag.org). Vous n'avez qu'à saisir une adresse email et voila. 
+Nous vous proposons de vous créer un compte gratuit : [lisez la documentation complète ici](http://doc.wallabag.org/fr/Se_cr%C3%A9er_un_compte_sur_Framabag).  
