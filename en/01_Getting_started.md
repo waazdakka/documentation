@@ -12,4 +12,4 @@
 If you want to try all wallabag features, there is a demonstration website: [http://demo.wallabag.org](http://demo.wallabag.org)
 
 ## Create an account
-Maybe you don't want to install and update wallabag by yourself, or you can't do it, it's possible to create a free account on [Framabag.org](https://www.framabag.org). Just your email is needed. 
+Maybe you don't want to install and update wallabag by yourself, or you can't do it, it's possible to create a free account on [Framabag.org](https://www.framabag.org). Just your email is needed.
