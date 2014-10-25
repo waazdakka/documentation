@@ -47,8 +47,10 @@ Aujourd'hui, la synchronisation ne s'effectue que dans un sens (de wallabag vers
 ### iOS
 
 #### Installation et configuration
+TODO
 
 #### Utilisation
+TODO
 
 ### Windows Phone
 
@@ -56,10 +58,9 @@ Aujourd'hui, la synchronisation ne s'effectue que dans un sens (de wallabag vers
 
 Vous pouvez télécharger l'application Windows Phone depuis le [Windows Store](http://www.windowsphone.com/fr-fr/store/app/wallabag/ff890514-348c-4d0b-9b43-153fff3f7450) ou directement dans le Store de votre smartphone.
 
-Une fois installée, l'application affichera une notification au premier lancement, demandant la configuration du serveur wallabag. Rendez-vous dans la partie **Configuration** de l'application en appuyant sur les 3 petits points du menu en bas de l'écran, puis renseignez les champs **URL** (Adresse complète de votre installation de wallabag ou de votre compte Framabag), **User ID** (très souvent, il vous faudra mettre 1 comme valeur. Si vous avez créé plusieurs comptes depuis wallabag, il faudra saisir l'identifiant du compte que vous souhaitez connecter à votre application) et **Token** (recopiez bien tous les caractères du token, disponible dans la **configuration** de wallabag).
+Une fois installée, l'application affichera une notification au premier lancement, demandant la configuration du serveur wallabag. Rendez-vous dans la partie **Configuration** de l'application en appuyant sur les 3 petits points du menu en bas de l'écran, puis renseignez les champs **URL** (Adresse complète de votre installation de wallabag ou de votre compte Framabag), **User ID** (très souvent, il vous faudra mettre 1 comme valeur.  
+Si vous avez créé plusieurs comptes depuis wallabag, il faudra saisir l'identifiant du compte que vous souhaitez connecter à votre application) et **Token** (recopiez bien tous les caractères du token, disponible dans la **configuration** de wallabag).  
 Enfin, sauvegardez les paramètres entrés.
-
-#### Utilisation
 
 ## Depuis son navigateur
 

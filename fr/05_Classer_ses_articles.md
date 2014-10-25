@@ -26,17 +26,26 @@ Lorsque votre recherche vous affiche les résultats, vous avez un lien en bas de
 
 Dans le menu de wallabag, cliquez sur **Tags**. Ici s'affichent tous les tags que vous avez créés, triés par nombre d'articles au sein de chaque tag. Cliquez sur l'un de ces tags pour retrouver tous les articles correspondants à ce tag. 
 
-## Favoris
+## Articles favoris
+Lorsque vous souhaitez mettre de côté un article, vous pouvez le marquer comme favori. 
 
 ### Marquer un article comme favori
+Depuis la page de lecture d'un article, ou depuis une liste d'articles (par exemple, la liste des articles non lus), vous pouvez mettre un article comme favori juste en cliquant sur l'étoile qui apparait.  
+Recliquer sur cette étoile enlèvera le statut **favori** de cet article. 
 
 ### Retrouver tous ses articles favoris
+Dans le menu de wallabag, cliquez sur **Favoris** pour retrouver tous les articles que vous avez déjà mis en favori.
 
-## Archivés
+## Articles archivés
+Lorsque vous avez lu un article, vous pouvez l'archiver : ainsi il n'apparaitra plus dans votre liste d'articles non lus.  
+Le fait d'archiver un article ne le supprime pas de wallabag. 
 
 ### Archiver un article
+Depuis la page de lecture d'un article, ou depuis une liste d'articles (par exemple, la liste des articles non lus), vous pouvez archiver un article juste en cliquant sur l'icône ✓.  
+Recliquer sur cette icône remettra l'article en statut **non lu**.
 
 ### Retrouver tous ses articles archivés
+Dans le menu de wallabag, cliquez sur **Archive** pour retrouver tous les articles que vous avez déjà archivés.
 
 ## Supprimer l'article
 
