@@ -13,26 +13,32 @@ Once connected, you have many ways to save an article.
 ### Android
 
 #### Installation and configuration 
+TODO
 
 #### Saving an article 
+TODO
 
 #### Reading 
+TODO
 
 ### iOS
 
 #### Installation and configuration
+TODO
 
 #### Use
+TODO
 
 ### Windows Phone
 
 #### Installation and configuration
-
+TODO
 
 ## From your browser
 
 ### Firefox
- 
+TODO
 
 ### Chrome
 
+TODO
