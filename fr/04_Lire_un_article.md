@@ -5,22 +5,26 @@ Si vous quittez un article alors que vous n'êtes qu'à la moitié de celui-ci p
 
 Cette astuce ne fonctionne qu'avec l'application web et pas les applications smartphones. 
 
-## Actions possibles depuis l'article 
+## Actions possibles depuis l'article
+Ces actions sont possibles grâce aux icônes affichés en haut de la page. Nous partons du principe que vous utilisez le thème Baggy ([lire la documentation pour changer de thème](http://doc.wallabag.org/fr/Configurer_wallabag)), les icônes dans les autres thèmes sont sensiblement les mêmes.  
+Voici donc ces actions, par ordre d'apparition des icônes.
 ### Lire l'article original
-TODO
+Renvoie vers l'article original.
 ### Marquer l'article comme lu 
-TODO
+Archive l'article, qui se retrouvera dans la catégorie **Archive** du menu de wallabag.  
+Recliquer dessus permet de replacer cet article en état non lu. 
 ### Mettre l'article en favori
-TODO
+Marque l'article comme favori, qui se retrouvera dans la catégorie **Favoris** du menu de wallabag.  
+Recliquer dessus permet d'enlever le statut de favori. 
 ### Supprimer l'article
-TODO
+Supprime complètement l'article de wallabag. Il ne pourra être restauré. Attention, aucune confirmation n'est demandée.
 ### Partager vers twitter
-TODO
+Partage le titre et le lien original de l'article sur twitter.
 ### Partager par email
-TODO
+Partage le titre et le lien original de l'article par email. 
 ### Imprimer l'article
-TODO
+Ouvre la fenêtre d'impression du navigateur. 
 ### Exporter en ePub
-TODO
+Exporte l'article au format ePub. [Un chapitre complet existe](http://doc.wallabag.org/fr/Exporter_en_ePub).
 ### Signaler que l'article s'affiche mal
-TODO
+Permet de signaler qu'un article ne s'affiche pas comme attendu. [Un chaptire complet existe](http://doc.wallabag.org/fr/Un_article_est_mal_affich%C3%A9).
