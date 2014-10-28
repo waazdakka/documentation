@@ -11,7 +11,7 @@
     "date_modified": true,
     "float": false,
     "file_editor": false,
-    "repo": "https://github.com/wallabag/documentation/blob/master",
+    "repo_to_fix": "https://github.com/wallabag/documentation/blob/master",
     "links": {
         "Download": "https://www.wallabag.org/downloads",
         "GitHub Repo": "https://github.com/wallabag/wallabag",
