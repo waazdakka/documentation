@@ -24,7 +24,7 @@ Partage le titre et le lien original de l'article sur twitter.
 Partage le titre et le lien original de l'article par email. 
 ### Imprimer l'article
 Ouvre la fenêtre d'impression du navigateur. 
-### Exporter en ePub
-Exporte l'article au format ePub. [Un chapitre complet existe](http://doc.wallabag.org/fr/Exporter_en_ePub).
+### Convertir en ePub
+Convertit l'article au format ePub. [Un chapitre complet existe](http://doc.wallabag.org/fr/Convertir_en_ePub).
 ### Signaler que l'article s'affiche mal
 Permet de signaler qu'un article ne s'affiche pas comme attendu. [Un chaptire complet existe](http://doc.wallabag.org/fr/Un_article_est_mal_affich%C3%A9).
