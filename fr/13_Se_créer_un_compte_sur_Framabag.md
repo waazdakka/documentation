@@ -14,7 +14,8 @@ Vous recevrez un dernier email avec l'adresse de votre compte Framabag, de la fo
 Framabag utilise une base de données par utilisateur. Nous ne faisons et ne ferons aucune utilisation de vos données stockées. 
 
 ## Vous avez oublié votre mot de passe 
-TODO
+Si vous avez oublié votre mot de passe pour vous connecter à Framabag, un formulaire est disponible [depuis la page d'accueil du service](https://www.framabag.org).  
+Remplissez-le, un email de confirmation vous sera envoyé et vous permettra de saisir votre nouveau mot de passe. 
 
 ## Suppression de votre compte
 Si vous souhaitez supprimer votre compte, contactez-nous par email : [hello@wallabag.org](mailto:hello@wallabag.org) avec l'adresse de création de votre compte, en nous indiquant votre nom d'utilisateur. 
