@@ -3,7 +3,7 @@ Les flux RSS vous permettent :
 * d'activer les fonctionnalités de lecture pour les applications smartphones
 
 Tout d'abord, vous devez activer la fonctionnalité RSS en générant votre jeton de flux.  
-Rendez-vous dans **configuration** de wallabag et créez le jeton dans la partie **Flux**.  
+Rendez-vous dans **configuration** de wallabag et créez le jeton dans la partie **Flux**.
 À tout moment, vous pouvez générer un nouveau jeton. 
 
 ## Lire les articles

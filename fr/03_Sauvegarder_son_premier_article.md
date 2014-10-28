@@ -1,6 +1,6 @@
 Une fois connecté sur wallabag, vous avez plusieurs moyens pour sauvegarder un article.
 ## Depuis l'application web
-Voyons d'abord comment faire depuis l'application web. Dans le menu, vous avez un lien **Sauvegarder un lien **. En cliquant dessus, un formulaire s'affiche : vous n'avez qu'à saisir l'adresse internet de l'article concerné. 
+Voyons d'abord comment faire depuis l'application web. Dans le menu, vous avez un lien **Sauvegarder un lien**. En cliquant dessus, un formulaire s'affiche : vous n'avez qu'à saisir l'adresse internet de l'article concerné. 
 
 Validez et le contenu de l'article est enregistré. 
 
@@ -20,7 +20,7 @@ Dorénavant, lorsque vous souhaitez sauvegarder un article sur lequel vous êtes
 
 ### Avant toute chose
 
-Pour pouvoir utiliser une application smartphone, vous devez activer les flux RSS depuis la partie **configuration** de wallabag. Certaines informations seront ainsi affichées, comme votre **token** (jeton de sécurité).
+Pour pouvoir utiliser une application smartphone, vous devez activer les flux RSS depuis la partie **configuration** de wallabag. Certaines informations seront ainsi affichées, comme votre **token** (jeton de sécurité). Lisez le chapitre [Flux RSS](http://doc.wallabag.org/fr/Flux_RSS) pour en savoir plus. 
 
 ### Android
 

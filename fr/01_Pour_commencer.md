@@ -7,6 +7,9 @@
 * des applications smartphones vous permettent de [lire vos articles tout en étant déconnecté](http://doc.wallabag.org/fr/Lire_un_article)
 * des extensions pour votre navigateur vous permettent d'[archiver rapidement un nouvel article](http://doc.wallabag.org/fr/Sauvegarder_son_premier_article)
 * plusieurs thèmes graphiques vous permettent d'[habiller votre wallabag comme vous le souhaitez](http://doc.wallabag.org/fr/Configurer_wallabag)
+* et forcément plein d'autres fonctionnalités ! 
+
+Cette documentation utilisateur est justement là pour faire découvrir toutes les possibilités de wallabag. 
 
 ## Démonstration
 Si vous souhaitez tester toute les fonctionnalités de wallabag, nous avons mis en place une démonstration ici : [http://demo.wallabag.org](http://demo.wallabag.org)
