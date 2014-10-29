@@ -62,6 +62,20 @@ Une fois installée, l'application affichera une notification au premier lanceme
 Si vous avez créé plusieurs comptes depuis wallabag, il faudra saisir l'identifiant du compte que vous souhaitez connecter à votre application) et **Token** (recopiez bien tous les caractères du token, disponible dans la **configuration** de wallabag).  
 Enfin, sauvegardez les paramètres entrés.
 
+#### Sauvegarde d'un article
+
+L'application étant maintenant configurée, vous pouvez ajouter des liens en cliquant sur **+**, puis en collant l'URL de votre article directement dans l'application. Cliquez ensuite sur **Valider**.
+
+Lors du premier ajout, la connexion à votre compte sera demandée dans la partie basse de l'écran. Vous pouvez cocher la case **Stay signed** pour ne plus avoir à entrer à nouveau vos identifiants.
+
+#### Lecture
+
+Lorsque vous ouvrez l'application, cliquez sur l'icône de synchronisation : vos articles dernièrement sauvegardés seront ainsi téléchargés sur votre smartphone. Vous pouvez également vous rendre dans les préférences pour activer la synchronisation au démarrage en cochant **Update at startup**.
+
+Vous n'avez maintenant plus besoin de connexion internet, et vous pouvez ouvrir les articles sauvegardés dans l'onglet **Unread**.
+
+MANQUENT OPTIONS **READ** et **FAVORITE** dans l'application !
+
 ## Depuis son navigateur
 
 ### Firefox
