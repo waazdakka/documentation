@@ -11,6 +11,7 @@ TODO
 
 ### Depuis wallabag
 TODO
+on sélectionne le fichier, on clique, ça importe et c'est tout. 
 
 ### Depuis un fichier HTML ou JSON
 TODO
